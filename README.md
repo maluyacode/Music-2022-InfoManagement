@@ -1,0 +1,1 @@
+# import the database to your phpMyAdmin, make sure the name is the same in the /includes/config.php $db_name = db_music 
